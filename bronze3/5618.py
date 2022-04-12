@@ -1,7 +1,7 @@
 import sys
 
 
-# 두 수의 공약수는 두 수의 최대공약수의 약수
+# 두 수의 공약수는 두 수의 최대공약수의 약수.
 def gcd(a, b):
     if a == 0:
         return b
